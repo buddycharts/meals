@@ -1,0 +1,160 @@
+[
+  {
+    "id": 1,
+    "name": "Veg Meals",
+    "quantity": "Meals",
+    "selling_price": 65,
+    "original_price": 100,
+    "images": ["meals/1.jpeg", "meals/2.jpeg", "meals/3.jpeg"],
+    "ingredients": ["250 ml rice", "4 curries", "curd"],
+    "nutrition": { "protein": 8, "fats": 5, "calories": 320, "carbs": 55 }
+  },
+  
+
+  {
+    "id": 2,
+    "name": "Non Veg Meals",
+    "quantity": "Non Veg Meals",
+    "selling_price": 100,
+    "original_price": 200,
+    "images": ["meals/4.jpeg", "meals/5.jpeg", "meals/6.jpeg"],
+    "ingredients": ["Biryani", "Rice", "1 curry", "Curd"],
+    "nutrition": { "protein": 18, "fats": 12, "calories": 480, "carbs": 65 }
+  },
+
+  {
+    "id": 3,
+    "name": "Plane Rice",
+    "quantity": "plane Rice",
+    "selling_price": 45,
+    "original_price": 60,
+    "images": ["meals/7.jpeg", "meals/8.jpeg", "meals/9.jpeg"],
+    "ingredients": ["Cooked Rice"],
+    "nutrition": { "protein": 4, "fats": 0, "calories": 210, "carbs": 46 }
+  },
+    {
+        "id": 4,
+        "name": "Curd Rice",
+        "quantity": "Curd Rice",
+        "selling_price": 50,
+        "original_price": 80,
+        "images": ["meals/10.jpeg", "meals/11.jpeg", "meals/12.jpeg"],
+        "ingredients": ["Cooked Rice", "Curd", "Mustard Seeds", "Curry Leaves", "Coriander"],
+        "nutrition": { "protein": 6, "fats": 4, "calories": 250, "carbs": 40 }
+    },
+    {
+        "id": 5,
+        "name": "Lemon Rice",
+        "quantity": "Lemon Rice",
+        "selling_price": 40,
+        "original_price": 60,
+        "images": ["meals/13.jpeg", "meals/14.jpeg", "meals/15.jpeg"],
+        "ingredients": ["Cooked Rice", "Lemon Juice", "Mustard Seeds", "Green Chilli", "Curry Leaves"],
+        "nutrition": { "protein": 5, "fats": 3, "calories": 240, "carbs": 42 }
+    },
+    {
+        "id": 6,
+        "name": "Tomato Rice",
+        "quantity": "Tomato Rice",
+        "selling_price": 45,
+        "original_price": 70,
+        "images": ["meals/16.jpeg", "meals/17.jpeg", "meals/18.jpeg"],
+        "ingredients": ["Cooked Rice", "Tomato", "Onion", "Spices", "Coriander"],
+        "nutrition": { "protein": 6, "fats": 4, "calories": 260, "carbs": 44 }
+    },
+    {
+  "id": 7,
+  "name": "Plain Biryani",
+  "quantity": "Plain Biryani",
+  "selling_price": 40,
+  "original_price": 70,
+  "images": ["meals/19.jpeg", "meals/20.jpeg", "meals/21.jpeg"],
+  "ingredients": [
+    "Basmati Rice",
+    "Fried Onions",
+    "Ghee",
+    "Green Chillies",
+    "Mint Leaves",
+    "Coriander Leaves",
+    "Biryani Masala",
+    "Whole Spices (Cardamom, Cloves, Bay Leaf)"
+  ],
+  "nutrition": {
+    "protein": 5,
+    "fats": 5,
+    "calories": 300,
+    "carbs": 50
+  }
+},
+{
+  "id": 8,
+  "name": "Veg Meals+Chapati",
+  "quantity": "Meals",
+  "selling_price": 75,
+  "original_price": 100,
+  "images": ["meals/22.jpeg", "meals/23.jpeg", "meals/24.jpeg"],
+  "ingredients": [
+    "250 ml rice",
+    "4 curries",
+    "curd",
+    "4 chapatis"
+  ],
+  "nutrition": { "protein": 8, "fats": 5, "calories": 320, "carbs": 55 }
+},
+
+{
+  "id": 9,
+  "name": "Non Veg Meals+Chapati",
+  "quantity": "Non Veg Meals",
+  "selling_price": 110,
+  "original_price": 200,
+  "images": ["meals/25.jpeg", "meals/26.jpeg", "meals/27.jpeg"],
+  "ingredients": [
+    "Biryani",
+    "Rice",
+    "1 curry",
+    "Curd",
+    "4 chapatis"
+  ],
+  "nutrition": { "protein": 18, "fats": 12, "calories": 480, "carbs": 65 }
+},
+{
+  "id": 10,
+  "name": "Chapati Meal",
+  "quantity": "Chapati+Curry",
+  "selling_price": 40,
+  "original_price": 70,
+  "images": ["meals/28.jpeg", "meals/29.jpeg", "meals/30.jpeg"],
+  "ingredients": [
+    "4 chapatis",
+    "2 veg curries"
+  ],
+  "nutrition": {
+    "protein": 10,
+    "fats": 6,
+    "calories": 320,
+    "carbs": 48
+  }
+},
+{
+  "id": 11,
+  "name": "Chapati Non Veg Meal",
+  "quantity": "Chapati+NonVegCurry",
+  "selling_price": 80,
+  "original_price": 120,
+  "images": ["meals/31.jpeg", "meals/32.jpeg", "meals/33.jpeg"],
+  "ingredients": [
+    "4 chapatis",
+    "Non veg curry (chicken/mutton)"
+  ],
+  "nutrition": {
+    "protein": 20,
+    "fats": 12,
+    "calories": 450,
+    "carbs": 55
+  }
+}
+
+
+
+]
