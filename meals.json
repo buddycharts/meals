@@ -153,8 +153,25 @@
     "calories": 450,
     "carbs": 55
   }
+},
+{
+  "id": 12,
+  "name": "Pulihora",
+  "quantity": "Tamarind Rice",
+  "selling_price": 35,
+  "original_price": 60,
+  "images": ["meals/34.jpg", "meals/35.jpg", "meals/36.jpg"],
+  "ingredients": ["Rice", "Tamarind", "Peanuts", "Turmeric", "Mustard Seeds"],
+  "nutrition": {
+    "protein": 5,
+    "fats": 4,
+    "calories": 230,
+    "carbs": 44
+  }
 }
 
 
 
+
 ]
+
